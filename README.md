@@ -1,4 +1,5 @@
 ### About me🧑:
+Reem Alon, 28 Y.o from Israel 🇮🇱.
 Hands-on experience with building & maintain web applications that scale. <br />
 Working with MVC frameworks such as Vue, React with TypeScipt. <br />
 Built rich backend servers with NodeJS, Express. <br />
