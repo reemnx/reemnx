@@ -2,14 +2,13 @@
 
 ### About me🧑:
 Hands-on experience with building & maintain web applications that scale. <br />
-Working with MVC frameworks such as Vue, React, typescript & javascript. <br />
-Built rich backend servers with NodeJS, Express, NestJS. <br />
-Design and styling pixel perfect UI using sass & UI libraries. <br />
+Working with MVC frameworks such as Vue, React with TypeScipt. <br />
+Built rich backend servers with NodeJS, Express. <br />
+Design and styling pixel perfect UI using sass & Tailwind & UI libraries. <br />
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Frontend Web Development [React, Vue]
-- 🌱 I’m currently learning webRTC & UC
+- 🔭 I’m currently working as Frontend Developer [React, Vue]
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Frontend Development.
