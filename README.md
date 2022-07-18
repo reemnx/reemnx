@@ -1,6 +1,3 @@
-[![ProfileBanner](https://media-exp1.licdn.com/dms/image/C4D03AQGWkHR_077Byg/profile-displayphoto-shrink_200_200/0/1647261443782?e=2147483647&v=beta&t=gREulMEySiN9P_xJb_OHAyUtCYUPSiXsyBCdpquSHcw)](https://www.linkedin.com/in/reem-alon-401816127/)
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGWkHR_077Byg/profile-displayphoto-shrink_200_200/0/1647261443782?e=2147483647&v=beta&t=gREulMEySiN9P_xJb_OHAyUtCYUPSiXsyBCdpquSHcw" width="400" height="280" />
-
 ### About me🧑:
 Hands-on experience with building & maintain web applications that scale. <br />
 Working with MVC frameworks such as Vue, React with TypeScipt. <br />
