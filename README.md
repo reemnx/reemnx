@@ -5,12 +5,6 @@ Working with MVC frameworks such as Vue, React with TypeScipt. <br />
 Built rich backend services with NodeJS, Python. <br />
 Design and styling pixel perfect UI using sass & Tailwind & UI libraries. <br />
 
-- 🔭 I’m currently working as Frontend Developer [React, Vue]
-- 👯 I’m looking to collaborate with Fullstack Web Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend Development.
-- ⚡ Fun fact: I 💖 to code 24x7.
-
 <br/>
 
 ---
